@@ -16,4 +16,10 @@
 
 5. Open Oracle SQL Developer
 
-6. 
+6. Click on the Green Plus Button and just fill all of it. The name of the connection can be anything. The rest is the same one you have set up (point 2). 
+The Role need to be set SYSDBA
+![image](https://github.com/user-attachments/assets/f3955371-029d-43b8-8261-a4bc8650da29)
+
+8. Then you are connected!
+9. Open Navicat or any kinda of navigation program.
+
