@@ -8,6 +8,7 @@ But we will se tomorrow. See yaaaaaa!
 Learn a lot by learning from this https://github.com/Thanaraklee/Exploring-and-Analyzing-Data-in-Oracle-Database.git
 
 But of course there will be some obstacle and here there go. I will fix it tonight. 
+
 SQL> create user testing identified by 12345;
 create user testing identified by 12345       *
 ERROR at line 1:
