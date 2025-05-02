@@ -1,4 +1,4 @@
-| SettingUPDatabase Tutorial |
+| Setting UP Database Tutorial |
  
 1. Make sure to properly install all the the tools in README.md
 
