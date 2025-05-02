@@ -15,26 +15,40 @@ ERROR at line 1:
 ORA-65096: invalid common user or role name
 
 
+
 SQL> create user ayliefia identified by adminuser;
+
 create user ayliefia identified by adminuser            *
 ERROR at line 1:
 ORA-65096: invalid common user or role name
 
+
 SQL> alter session set "_ORACLE_SCRIPT"=true;
+
 Session altered.
+
 
 SQL> create user ayliefia identified by adminuser;
+
 User created.
 
+
 SQL> alter session set "_ORACLE_SCRIPT"=false;
+
 Session altered.
+
 
 SQL> alter session set "_ORACLE_SCRIPT"=true;
+
 Session altered.
+
 
 SQL> alter session set "_ORACLE_SCRIPT"=false;
+
 Session altered.
 
+
 SQL> grant create sequence to naudy_db;
+
 Grant succeeded.
 
