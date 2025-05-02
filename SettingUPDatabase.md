@@ -14,9 +14,11 @@
       'Enter password:' Use the password you have created while installing Oracle. 
       While typing here, your poassword will not show/will not type anything. Then enter.
 
-5. Open Oracle SQL Developer
+5. After that enter 'select * from tab;' still in SQL Plus. This will set up the enviroment more. 
 
-6. Click on the Green Plus Button and just fill all of it. The name of the connection can be anything. The rest is the same one you have set up (point 2). 
+6. Open Oracle SQL Developer
+
+7. Click on the Green Plus Button and just fill all of it. The name of the connection can be anything. The rest is the same one you have set up (point 2). 
 The Role need to be set SYSDBA
 ![image](https://github.com/user-attachments/assets/f3955371-029d-43b8-8261-a4bc8650da29)
 
